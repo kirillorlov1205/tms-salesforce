@@ -1,9 +1,9 @@
 package page;
 
 import utils.Waiter;
-import elementsWrappers.Button;
-import elementsWrappers.DropDown;
-import elementsWrappers.InputField;
+import elementWrappers.Button;
+import elementWrappers.DropDown;
+import elementWrappers.InputField;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 

@@ -1,4 +1,4 @@
-package elementsWrappers;
+package elementWrappers;
 
 import utils.Waiter;
 import org.openqa.selenium.By;
